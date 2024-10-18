@@ -1,0 +1,14 @@
+.page{
+  width: 100%;
+  height: auto;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+}
+
+.page .container{
+  width: 80%;
+  height: 100%;
+  background-color: #e1dbdb;
+  padding: 20px;
+}
