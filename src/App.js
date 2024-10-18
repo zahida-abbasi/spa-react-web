@@ -4,9 +4,9 @@ import {
   Routes,
   Route
 } from "react-router-dom"
-import Navbar from 'C:/Users/zahed/Desktop/spa/src/Componant/Navbar/Navbar';
-import Footer from 'C:/Users/zahed/Desktop/spa/src/Componant/Footer/Footer';
-import Homepage from 'C:/Users/zahed/Desktop/spa/src/Componant/Homepage/Homepage';
+import Navbar from "./Componant/Navbar/Navbar";
+import Footer from './Componant/Footer/Footer';
+import Homepage from './Componant/Homepage/Homepage';
 const App = () => {
   const design = (
     <BrowserRouter>
